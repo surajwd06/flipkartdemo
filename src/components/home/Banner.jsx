@@ -22,7 +22,7 @@ const Image = styled('img')({
     height: 280,
 })
 const Banner = () => {
-    console.log("bkjkhhjuanner");
+    console.log("suraj");
     return (
         <Carousel responsive={responsive}
             swipeable={false}
